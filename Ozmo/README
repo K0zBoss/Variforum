@@ -1,0 +1,44 @@
+# Ozmo — Interaction Layer (MVP Pending)
+
+Ozmo is an interface layer within the Variforum system.
+
+It is a calm, single-scene interactive environment designed to explore how presence, return, and attention can be acknowledged without pressure, metrics, or extraction.
+
+Ozmo is intentionally minimal and emotionally oriented.
+
+---
+
+## Purpose
+
+Ozmo exists to:
+
+- Provide a human-facing entry point into Variforum’s design philosophy
+- Test non-coercive interaction patterns
+- Explore growth without visible metrics
+- Serve as a grounding artifact for future system layers
+
+Ozmo is not intended to be addictive, competitive, or optimized for retention.
+
+---
+
+## Core Constraints
+
+- No scores, timers, or visible progression
+- No notifications, streaks, or penalties
+- No dialogue systems or instructions
+- Visual change is the only form of feedback
+- Absence is neutral
+
+These constraints are foundational, not features.
+
+---
+
+## Status
+
+- MVP scope defined
+- Implementation intentionally deferred
+- Will be built as a single-scene prototype
+
+---
+
+Ozmo is a component, not a product.
